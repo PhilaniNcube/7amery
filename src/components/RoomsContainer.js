@@ -1,5 +1,3 @@
-import React, { Fragment } from 'react';
-import { RoomConsumer } from '../context';
 import Loading from './Loading';
 import RoomsFilter from './RoomsFilter';
 import RoomsList from './RoomsList';
